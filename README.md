@@ -1,3 +1,6 @@
+# Description
+In this lab I learned....
+
 # Inheritance Lab
 Inheritance Lab Definition (People-Student-Professor)
 This lab will help you practice the following concepts:
