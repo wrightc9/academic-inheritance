@@ -1,0 +1,91 @@
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+Input Filename: -------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+Input Filename: -------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+
+{name: Peter, birthday: {year: 1995, month: 10, day: 1}}
+{name: Janice, birthday: {year: 1991, month: 2, day: 21}}
+{Person: {name: Ann, birthday: {year: 2000, month: 3, day: 19}}, major: BUS, gpa: 3.59375, credits: 8}
+{Person: {name: Josh, birthday: {year: 1980, month: 1, day: 15}}, department: BUS, rank: 2, hire-date: {year: 2010, month: 9, day: 1}, salary: 75000}
+{Person: {name: Pat, birthday: {year: 2002, month: 6, day: 19}}, major: CSC, gpa: 3, credits: 3}
+{Person: {name: Daphne, birthday: {year: 1995, month: 9, day: 4}}, department: BIO, rank: 1, hire-date: {year: 2018, month: 9, day: 1}, salary: 62100}
+-------------------------------------------
+1. Add a Person
+2. Add a Student
+3. Add a Professor
+4. List all People
+5. Show Students Report
+6. Show Professors Report
+7. Show People (not Professors or Students)
+8. Calculate all Students Average GPA
+9. Calculate all Professors Average Salary
+10. Input Grades to Student
+11. Promote Professor
+12. Give Raise to Professor
+13. Load Data from File
+14. Write Data to File
+15. Exit
+

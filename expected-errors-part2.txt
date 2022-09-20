@@ -1,0 +1,2 @@
+Unable to open file notthere
+Something went wrong reading a professor from file
