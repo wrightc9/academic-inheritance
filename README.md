@@ -1,5 +1,7 @@
 # Description
-In this lab I learned....
+In this lab, I used inheriance to create a program that stores information about individual persons, either students or professors. 
+Students and professors inherit from the person class, and hold more specific information than the person class itself.
+This lab helped me to sharpen my skills with inheritance, polymorphism, and the Standard library's '"vector" class.
 
 # Inheritance Lab
 Inheritance Lab Definition (People-Student-Professor)
